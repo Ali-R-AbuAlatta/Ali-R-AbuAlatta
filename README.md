@@ -1,5 +1,5 @@
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:172554,100:2563eb&height=230&section=header&text=Ali%20Rafiq%20Abu%20Al-Atta&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Software%20Developer%20%7C%20Technical%20Project%20Manager%20%7C%20Co-Founder%20%26%20Operations%20Director%20at%20Gaza%20SkillBridge&descSize=15&descAlignY=55&descColor=cbd5e1&animation=fadeIn" />
+<h1 align="center">Ali Rafiq Abu Al-Atta</h1>
+<h3 align="center">Software Developer · Technical Project Manager · Co-Founder & Operations Director at Gaza SkillBridge</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -8,7 +8,6 @@
   </a>
 </p>
 
-<!-- Profile Links -->
 <p align="center">
   <a href="https://github.com/Ali-R-AbuAlatta">
     <img src="https://komarev.com/ghpvc/?username=Ali-R-AbuAlatta&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
@@ -87,9 +86,8 @@ public sealed class SoftwareProfessional
 
 - ASP.NET Core MVC and Web APIs
 - Backend architecture and business logic
-- Entity Framework Core and LINQ
-- Identity, JWT, roles and permissions
-- Validation, localization and structured error handling
+- Entity Framework Core, LINQ and migrations
+- Identity, JWT, roles, permissions and validation
 
 </td>
 <td width="50%" valign="top">
@@ -100,12 +98,10 @@ public sealed class SoftwareProfessional
 ![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant_Systems-0F766E?style=for-the-badge)
 ![Architecture](https://img.shields.io/badge/System_Architecture-334155?style=for-the-badge)
 
-- Multi-tenant SaaS architecture
-- Tenant access and domain resolution
-- Subscription and provisioning workflows
+- Multi-tenant architecture and tenant isolation
+- Subscriptions, domains and provisioning workflows
 - ERP, CRM and administrative platforms
 - Finance, approval and workflow engines
-- Scalable and maintainable system structures
 
 </td>
 </tr>
@@ -120,7 +116,6 @@ public sealed class SoftwareProfessional
 
 - Relational database design and data modeling
 - SQL queries, indexing and reporting
-- EF Core migrations
 - Performance-aware data access
 - Excel, PDF and operational report generation
 
@@ -135,12 +130,10 @@ public sealed class SoftwareProfessional
 ![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-- Git and GitHub workflows
+- Git, GitHub Actions and CI/CD
 - Docker and containerized environments
-- GitHub Actions and CI/CD
-- Windows Server and IIS deployment
-- Cloudflare, domains and application routing
-- Swagger, Postman and API testing
+- Windows Server, IIS and production deployment
+- Cloudflare, domains, Swagger and Postman
 
 </td>
 </tr>
@@ -155,11 +148,9 @@ public sealed class SoftwareProfessional
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-Learning-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-- Responsive administrative interfaces
-- JavaScript interactions and dashboards
-- RTL and bilingual Arabic-English interfaces
+- Responsive administrative interfaces and dashboards
+- RTL and bilingual Arabic-English experiences
 - Accessible forms, tables and workflows
-- Chart.js and data visualization
 - React and Next.js learning path
 
 </td>
@@ -171,11 +162,9 @@ public sealed class SoftwareProfessional
 ![Automation](https://img.shields.io/badge/Automation-0891B2?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-- AI agents for software-development workflows
-- AI-assisted analysis, planning and documentation
+- AI agents for analysis, planning and development
 - Structured prompting and implementation reviews
-- OpenAI API integration
-- Automated evaluation and content processing
+- OpenAI API integration and automated evaluation
 - Practical business-process automation
 
 </td>
@@ -192,30 +181,20 @@ public sealed class SoftwareProfessional
 
 ### Gaza Chamber Digital Platforms
 
-**Role:** Systems Development Manager & Backend Developer
+- Developed the official website and digital services for companies, members and merchants.
+- Built secure administration, reporting, APIs, roles and permission workflows.
 
-- Developed and improved the Chamber's official website.
-- Built internal administration and public-service platforms.
-- Worked on company registration, membership and merchant-service workflows.
-- Developed authentication, roles, permissions and secure access modules.
-- Improved reports, statistics, exports, APIs and administration portals.
-
-**Technologies:** `ASP.NET Core` `C#` `EF Core` `SQL Server` `REST APIs` `Identity`
+**Tech:** `ASP.NET Core` `C#` `EF Core` `SQL Server` `REST APIs` `Identity`
 
 </td>
 <td width="50%" valign="top">
 
 ### Ministry Digital Transformation Systems
 
-**Role:** Technical Director & Software Project Manager
+- Managed planning and delivery across personnel, companies, archiving and crossings systems.
+- Coordinated developers and stakeholders through requirements, testing and deployment.
 
-- Led planning and delivery follow-up for institutional software projects.
-- Coordinated developers, departments and operational stakeholders.
-- Contributed to personnel, companies, archiving and crossings-related systems.
-- Translated administrative workflows into implementation plans.
-- Supported testing, deployment, prioritization and institutional adoption.
-
-**Focus:** `Technical Project Management` `Requirements` `Delivery` `Digital Transformation`
+**Focus:** `Project Management` `Requirements` `Delivery` `Digital Transformation`
 
 </td>
 </tr>
@@ -224,63 +203,42 @@ public sealed class SoftwareProfessional
 
 ### Gaza SkillBridge Platform Ecosystem
 
-**Role:** Co-Founder, Operations Director & Product Contributor
+- Contributed to the talent platform and planned internal finance and operations systems.
+- Designed evaluation, review, permissions, approvals and AI-assisted workflows.
 
-- Contributed to the company's talent platform and technical direction.
-- Planned internal company, finance and operational management systems.
-- Worked on talent registration, evaluation and review workflows.
-- Designed roles, permissions, approvals and organizational structures.
-- Applied AI-assisted evaluation and workflow-automation concepts.
-
-**Technologies:** `ASP.NET Core` `PostgreSQL` `Docker` `AI Integration` `Workflow Systems`
+**Tech:** `ASP.NET Core` `PostgreSQL` `Docker` `AI Integration` `Workflows`
 
 </td>
 <td width="50%" valign="top">
 
 ### Gaza SkillBridge BackOffice
 
-**Role:** Product Planner & Technical Lead
+- Designed an internal ERP covering organization, finance, funds and multi-level approvals.
+- Delivered the platform through structured sprints, reports, dashboards and controls.
 
-- Designed an internal ERP and operations-management platform.
-- Developed organization, users, roles and permissions modules.
-- Built finance, transactions, funds and party-management capabilities.
-- Designed multi-level approval workflows and financial controls.
-- Added reports, dashboards, exports and operational monitoring.
-- Planned delivery through structured sprints and staged implementation.
-
-**Modules:** `Organization` `Identity` `Finance` `Approvals` `Reports` `Dashboards`
+**Modules:** `Identity` `Organization` `Finance` `Approvals` `Reports`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Mizanio — Multi-Tenant Accounting SaaS
+### Mizanio — Accounting SaaS
 
-**Role:** SaaS Product Developer
+- Designed a multi-tenant accounting platform with company and subscription administration.
+- Built tenant access, domains, payments, provisioning and platform-readiness workflows.
 
-- Designed a multi-tenant accounting and administration platform.
-- Built company, domain, subscription and payment management.
-- Developed tenant provisioning and readiness workflows.
-- Implemented tenant-access policies and domain resolution.
-- Designed reusable administration and security foundations.
-
-**Technologies:** `.NET` `PostgreSQL` `Docker` `Multi-Tenancy` `SaaS Architecture`
+**Tech:** `.NET` `PostgreSQL` `Docker` `Multi-Tenancy` `SaaS`
 
 </td>
 <td width="50%" valign="top">
 
 ### Tawjihi Pro
 
-**Role:** Product Planner & Backend Developer
+- Planned an AI-assisted self-study product with a structured learning experience.
+- Built modular backend foundations prepared for educational content and AI integration.
 
-- Planned an AI-assisted self-study platform for students.
-- Designed a structured question-and-answer learning experience.
-- Worked on backend architecture and product foundations.
-- Prepared the platform for educational content and AI integration.
-- Applied modular development and automated testing practices.
-
-**Technologies:** `.NET` `ASP.NET Core MVC` `AI Integration` `Modular Architecture`
+**Tech:** `.NET` `ASP.NET Core MVC` `AI Integration` `Testing`
 
 </td>
 </tr>
@@ -289,15 +247,9 @@ public sealed class SoftwareProfessional
 
 ### Custom Business & Service Systems
 
-Over the years, I have built or contributed to practical systems including:
+Built or contributed to medical, dental clinic, charity administration, staff CMS, reservation, reporting and financial systems.
 
-- Unified medical profile systems and dental clinic management.
-- Charity administration platforms and staff-management CMS solutions.
-- Reservation and service-management systems.
-- Reporting, financial and administrative applications.
-- Custom backend solutions for institutional and business workflows.
-
-**Development Scope:** `Requirements Analysis` `Database Design` `Backend Development` `Business Logic` `Reporting` `Administration Interfaces`
+**Scope:** `Requirements Analysis` `Database Design` `Backend Development` `Business Logic` `Reporting`
 
 </td>
 </tr>
@@ -373,26 +325,18 @@ Ongoing           ── SaaS & Business Systems Product Development
 <tr>
 <td width="50%" valign="top">
 
-### Technical Project Management
+### Planning & Delivery
 
-- Plan software projects from requirements to delivery.
-- Break complex systems into phases, sprints and work packages.
-- Define scope, priorities, milestones and acceptance criteria.
-- Follow implementation progress and resolve delivery blockers.
-- Coordinate developers, departments and operational stakeholders.
-- Support testing, deployment, stabilization and post-release improvements.
+- Convert complex systems into clear phases, sprints and priorities.
+- Track scope, milestones, dependencies, blockers and release readiness.
 
 </td>
 <td width="50%" valign="top">
 
-### Requirements & Systems Analysis
+### Requirements & Analysis
 
-- Understand institutional and business operating processes.
-- Translate operational needs into structured software requirements.
-- Map users, roles, permissions, workflows and approval paths.
-- Identify business rules, validations and exceptional scenarios.
-- Design data structures and module relationships.
-- Align business objectives with implementation decisions.
+- Translate operational workflows into structured software requirements.
+- Define users, permissions, business rules, validations and module relationships.
 
 </td>
 </tr>
@@ -401,43 +345,23 @@ Ongoing           ── SaaS & Business Systems Product Development
 
 ### SaaS Product Leadership
 
-- Shape SaaS products from concept to operational foundation.
-- Plan multi-tenant architecture and tenant-isolation requirements.
-- Design subscriptions, domains, payments and provisioning workflows.
-- Structure shared platform capabilities and tenant operations.
-- Plan scalable modules and staged feature delivery.
-- Balance product scope, technical quality and operational priorities.
+- Shape multi-tenant products, subscriptions, domains and provisioning flows.
+- Balance product value, technical quality and operational priorities.
 
 </td>
 <td width="50%" valign="top">
 
-### Delivery & Quality
+### Quality & Coordination
 
-- Use sprint-based implementation and incremental delivery.
-- Establish clear baselines before major changes.
-- Review implementation against agreed requirements.
-- Track tests, migrations, deployment readiness and regression status.
-- Prioritize maintainability, security and operational reliability.
-- Document decisions, constraints and technical handovers.
+- Coordinate developers, departments and non-technical stakeholders.
+- Review tests, migrations, deployments, regressions and technical handovers.
 
 </td>
 </tr>
 </table>
 
-### How I Lead Technical Projects
-
 ```text
-Understand the operation
-        ↓
-Define the actual problem
-        ↓
-Translate it into system requirements
-        ↓
-Plan modules, priorities and delivery stages
-        ↓
-Coordinate implementation and review progress
-        ↓
-Test, deploy, stabilize and improve
+Understand → Define → Plan → Coordinate → Test → Deploy → Improve
 ```
 
 ---
@@ -448,24 +372,14 @@ Test, deploy, stabilize and improve
 <tr>
 <td width="50%" valign="top">
 
-### SaaS Product Development
-
-- Building scalable SaaS products for business and institutional use.
-- Advancing multi-tenant architecture and tenant isolation.
-- Designing subscription, billing and provisioning workflows.
-- Developing reusable platform capabilities.
-- Turning internal systems into sustainable software products.
+### SaaS & Multi-Tenancy
+Building reusable SaaS foundations, tenant isolation, subscriptions, billing and provisioning.
 
 </td>
 <td width="50%" valign="top">
 
-### Advanced ASP.NET Core Engineering
-
-- Strengthening modular and maintainable backend architecture.
-- Improving Identity, authentication and authorization foundations.
-- Designing advanced roles and permission systems.
-- Building secure REST APIs and integration-ready services.
-- Developing finance, approval and workflow engines.
+### Advanced ASP.NET Core
+Strengthening modular architecture, security, APIs, permissions, finance and workflow engines.
 
 </td>
 </tr>
@@ -473,58 +387,31 @@ Test, deploy, stabilize and improve
 <td width="50%" valign="top">
 
 ### AI Agents & Automation
-
-- Using AI agents across analysis, planning and software delivery.
-- Designing practical AI-assisted business workflows.
-- Integrating AI capabilities into software products.
-- Automating evaluation, content processing and operational tasks.
-- Exploring responsible and maintainable AI integration patterns.
+Integrating practical AI-assisted workflows into products, operations and software delivery.
 
 </td>
 <td width="50%" valign="top">
 
-### Cloud, DevOps & Scalable Delivery
-
-- Expanding containerized development and deployment practices.
-- Improving CI/CD workflows and automated delivery.
-- Strengthening production configuration and monitoring.
-- Advancing cloud infrastructure and deployment knowledge.
-- Building reliable backup, storage and recovery workflows.
+### Cloud & DevOps
+Improving containers, CI/CD, monitoring, backups and reliable production deployment.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Frontend & Product Experience
-
-- Developing stronger React and Next.js capabilities.
-- Connecting modern frontends with ASP.NET Core APIs.
-- Improving administrative interfaces and dashboards.
-- Designing accessible bilingual Arabic-English experiences.
-- Building clear forms, tables, reports and workflows.
+### Frontend Product Experience
+Advancing React and Next.js while improving bilingual dashboards, forms and workflows.
 
 </td>
 <td width="50%" valign="top">
 
-### Software Architecture & Distributed Systems
-
-- Deepening modular and distributed architecture knowledge.
-- Exploring caching, queues and background processing.
-- Studying microservices where they provide real business value.
-- Improving system integration and service boundaries.
-- Balancing architectural complexity with practical needs.
+### Software Architecture
+Deepening knowledge of modular systems, caching, queues, integrations and practical service boundaries.
 
 </td>
 </tr>
 </table>
-
-```text
-ASP.NET Core Architecture + SaaS & Multi-Tenancy + Technical Product Leadership
-+ Cloud & DevOps + React / Next.js + AI Agents & Automation
-                              ↓
-       Scalable, practical and business-driven software products
-```
 
 ---
 
@@ -601,20 +488,6 @@ ASP.NET Core Architecture + SaaS & Multi-Tenancy + Technical Product Leadership
 
 > I believe good software starts with understanding the operation, grows through clear technical decisions, and succeeds when it reliably serves real users.
 
-```text
-Business Understanding
-        ↓
-Requirements & System Design
-        ↓
-Incremental Development
-        ↓
-Testing & Technical Review
-        ↓
-Deployment & Stabilization
-        ↓
-Continuous Improvement
-```
-
 ---
 
 ## 🎓 Education & Languages
@@ -648,8 +521,8 @@ My business background supports my ability to understand operations, finance, or
 
 <p align="center">
   <a href="https://github.com/Ali-R-AbuAlatta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ali-R-AbuAlatta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-R-AbuAlatta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ali-R-AbuAlatta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ali-R-AbuAlatta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
@@ -701,7 +574,6 @@ My business background supports my ability to understand operations, finance, or
 
 ---
 
-<!-- Contribution Snake -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-R-AbuAlatta/Ali-R-AbuAlatta/output/github-snake-dark.svg" />
@@ -709,6 +581,3 @@ My business background supports my ability to understand operations, finance, or
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ali-R-AbuAlatta/Ali-R-AbuAlatta/output/github-snake-dark.svg" />
   </picture>
 </p>
-
-<!-- Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:172554,100:2563eb&height=120&section=footer" />
